@@ -1,0 +1,24 @@
+.transformation{
+    width: 20em;
+    height: 20em;
+    border: 1px solid red;
+    background-color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* transition: all 1s  linear .5s ; */
+    transition-property: all ;         
+    /* transition property is just saying what to change  */
+    transition-duration: 1s ;
+    /* transition property is just saying what duration lasts */
+    transition-timing-function: linear;
+    transition-delay: .5s;
+    
+}
+.transformation:hover{
+    background-color: green;
+    color: white;
+}
+
+
+
+
+

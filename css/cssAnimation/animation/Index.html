@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .div{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 20em;
+            height: 20em;
+            border-radius:50%;
+            border: 1px solid red;
+            animation: slideIn 1s  ;
+            /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+            /* animation-direction: reverse; */
+            animation-fill-mode:forwards;
+            /* animation-direction: alternate-reverse; */
+            animation-iteration-count: infinite;
+        }
+
+        @keyframes slideIn {
+            0%{
+               transform: scale(1);
+            }
+
+        100%{
+               transform: scale(2);
+               opacity: 0;
+            }
+            
+        }
+
+
+
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="div">
+    </div>
+    
+</body>
+</html>
