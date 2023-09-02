@@ -21,4 +21,7 @@ RAKSHA BANDHAN LEAVES ( THE LAST LEAVE THANKS )
 
 # 09/03/2023
 
-- [ ]
+- [ ] biweekly contest 112
+- [ ] weekly contest 361
+- [ ] next 2 videos of java
+- [ ] complete the resume without portfolio
