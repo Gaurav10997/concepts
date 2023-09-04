@@ -25,3 +25,12 @@ RAKSHA BANDHAN LEAVES ( THE LAST LEAVE THANKS )
 - [ ] weekly contest 361
 - [ ] next 2 videos of java
 - [ ] complete the resume without portfolio
+
+# 09/04/2023
+
+- [ ] FLEX AND GRID REVISION
+- [ ] PORTFOLIO
+- [ ] LEETCODE CHALLENGE
+- [ ] DSA 3 CHALLENGE
+- [ ] BIWEEKLY CONTEST 112
+- [ ]

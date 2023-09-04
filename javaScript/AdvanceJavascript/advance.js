@@ -121,3 +121,14 @@
 
 
 // optinalol chaining 
+
+
+
+//Map
+
+
+const map = new Map([["unitedStates" , "USD"]
+,["INDIA" ,"RUPPES"]
+]);
+
+console.log(map);
