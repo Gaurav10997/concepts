@@ -21,7 +21,7 @@ RAKSHA BANDHAN LEAVES ( THE LAST LEAVE THANKS )
 
 # 09/03/2023
 
-- [ ] biweekly contest 112
+- [] biweekly contest 112
 - [ ] weekly contest 361
 - [ ] next 2 videos of java
 - [ ] complete the resume without portfolio
@@ -34,3 +34,22 @@ RAKSHA BANDHAN LEAVES ( THE LAST LEAVE THANKS )
 - [ ] DSA 3 CHALLENGE
 - [ ] BIWEEKLY CONTEST 112
 - [ ]
+
+# 09/05/2023
+
+Data Structure And Algorithm
+[Copy List With Random Pointer - leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) 946. Validate Stack Sequences
+https://course.acciojob.com/idle?question=3ddd108b-3085-4a24-b6fa-3ce45ef52544 balanced parenthesis
+https://leetcode.com/problems/validate-stack-sequences/
+https://leetcode.com/problems/design-browser-history/
+https://leetcode.com/problems/min-stack/
+https://leetcode.com/contest/biweekly-contest-112/problems/count-k-subsequences-of-a-string-with-maximum-beauty/
+
+Frontend  
+https://course.acciojob.com/idle?question=c1f72858-3073-47bf-9d1e-31d923c4199e
+https://course.acciojob.com/web-idle?question=07fa2e94-832c-4c86-9c35-59e6df2f0989
+
+Portfolio
+Link all the social and projects
+
+Sprinboot
